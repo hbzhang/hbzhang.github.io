@@ -1,6 +1,6 @@
 ---
 layout: default
-title:About Me
+title: About Me
 description: Pursue your dream
 permalink: /
 order: 1
